@@ -1,4 +1,4 @@
-ipykernel
-numpy
-pandas
+ipykernel == 6.29.5
+numpy == 2.1.0
+pandas == 2.2.2
 time
